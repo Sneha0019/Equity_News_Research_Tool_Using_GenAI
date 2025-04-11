@@ -2,7 +2,8 @@
 EquiSight is a Streamlit-based tool designed to empower equity researchers by automating the extraction and analysis of financial news articles. Users can input multiple news URLs, and the tool will intelligently fetch, store, and analyze the content using Generative AI models — delivering accurate summaries and allowing insightful querying for better decision-making.
 
 
-![image](https://github.com/user-attachments/assets/25614922-fbf1-4fa2-9440-24b72da78c24)
+![image](https://github.com/user-attachments/assets/99dd885b-1e42-420f-b3cd-ac66ffe723ea)
+
 
 📌 Key Features
 📰 Input Multiple News URLs
